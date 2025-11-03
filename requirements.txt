@@ -2,4 +2,4 @@ pandas
 matplotlib
 requests
 beautifulsoup4
-Pyyaml
+pyyaml
