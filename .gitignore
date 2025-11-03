@@ -1,0 +1,11 @@
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local output — dashboard and data
+team_dashboard/
+cricclubs_export_out/
