@@ -1,11 +1,8 @@
-# Local environment
+# Python venv
 .venv/
-__pycache__/
-*.pyc
 
-# macOS
-.DS_Store
-
-# Local output — dashboard and data
-team_dashboard/
+# Raw scraped data (not needed in repo)
 cricclubs_export_out/
+
+# macOS metadata
+.DS_Store
